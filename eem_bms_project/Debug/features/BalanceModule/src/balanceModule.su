@@ -1,0 +1,7 @@
+../features/BalanceModule/src/balanceModule.c:45:11:BalanceModule_CTOR	32	static
+../features/BalanceModule/src/balanceModule.c:76:22:BalanceModule_INIT	24	static
+../features/BalanceModule/src/balanceModule.c:85:22:BalanceModule_IDLE	24	static
+../features/BalanceModule/src/balanceModule.c:94:22:BalanceModule_ROUTINE	24	static
+../features/BalanceModule/src/balanceModule.c:103:22:BalanceModule_PROCESS	24	static
+../features/BalanceModule/src/balanceModule.c:112:22:BalanceModule_SUSPEND	24	static
+../features/BalanceModule/src/balanceModule.c:121:6:MainBALANCE	16	static

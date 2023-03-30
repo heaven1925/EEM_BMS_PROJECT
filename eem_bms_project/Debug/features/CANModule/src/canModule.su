@@ -1,0 +1,7 @@
+../features/CANModule/src/canModule.c:45:11:CanModule_CTOR	32	static
+../features/CANModule/src/canModule.c:76:18:CanModule_INIT	24	static
+../features/CANModule/src/canModule.c:85:18:CanModule_IDLE	24	static
+../features/CANModule/src/canModule.c:94:18:CanModule_ROUTINE	24	static
+../features/CANModule/src/canModule.c:103:18:CanModule_PROCESS	24	static
+../features/CANModule/src/canModule.c:112:18:CanModule_SUSPEND	24	static
+../features/CANModule/src/canModule.c:121:6:MainCAN	16	static

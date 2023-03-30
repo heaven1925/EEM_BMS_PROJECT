@@ -1,0 +1,13 @@
+../Drivers/EEMProtocol/src/EEMProtocol.c:42:6:CAN1_RX0_IRQHandler	48	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:114:6:EEM_BXCAN_PeriphBase_CTOR	24	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:176:6:EEM_CTOR	24	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:220:11:EEM_INIT	56	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:473:8:EEM_PUSH	24	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:502:6:EEM_POP	24	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:527:13:EEM_TX	24	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:599:13:EEM_RX	24	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:658:12:EEM_PERIODIC	376	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:1088:12:EEM_IS_EMPTY	16	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:1100:12:EEM_IS_FULL	16	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:1113:6:EEM_TEST_MSG	8	static
+../Drivers/EEMProtocol/src/EEMProtocol.c:1136:6:EEM_DEBUG_PRINT	16	static

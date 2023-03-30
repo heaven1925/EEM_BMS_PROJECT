@@ -1,0 +1,2 @@
+../Drivers/EEMProtocol/src/EEMProtocol_Config.c:68:6:EEM_SEND_FIXEDMSG	4	static
+../Drivers/EEMProtocol/src/EEMProtocol_Config.c:87:6:EEM_SET_IDENTIFIERS	112	static

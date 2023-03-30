@@ -1,0 +1,11 @@
+C:/Users/AtakanErtekin/Desktop/Elektromobil WorkSpace/EEM_BMS_PROJECT/eem_bms_project/application/inc/app.h:123:20:MainState_RunA_Vcall	16	static
+C:/Users/AtakanErtekin/Desktop/Elektromobil WorkSpace/EEM_BMS_PROJECT/eem_bms_project/application/inc/app.h:128:20:MainState_RunB_Vcall	16	static
+C:/Users/AtakanErtekin/Desktop/Elektromobil WorkSpace/EEM_BMS_PROJECT/eem_bms_project/application/inc/app.h:133:20:MainState_RunC_Vcall	16	static
+../application/src/app.c:362:6:MainState_CTOR	88	static
+../application/src/app.c:382:6:System_StateADC_MAIN	16	static
+../application/src/app.c:399:6:System_StateBALANCE_MAIN	16	static
+../application/src/app.c:416:6:System_StateCAN_MAIN	16	static
+../application/src/app.c:434:7:App_MAIN	8	static
+../application/src/app.c:453:14:StateADC_MAIN	16	static
+../application/src/app.c:487:14:StateBALANCE_MAIN	16	static
+../application/src/app.c:520:14:StateCAN_MAIN	16	static

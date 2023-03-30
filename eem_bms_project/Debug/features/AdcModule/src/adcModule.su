@@ -1,0 +1,15 @@
+../features/AdcModule/src/adcModule.c:48:13:AdcModule_SetParam	32	static
+../features/AdcModule/src/adcModule.c:104:19:AdcModule_GetParam	16	static
+../features/AdcModule/src/adcModule.c:109:13:AdcModule_SetMux	24	static
+../features/AdcModule/src/adcModule.c:243:15:AdcModule_ReadVoltage	56	static
+../features/AdcModule/src/adcModule.c:286:15:AdcModule_ReadCurrent	120	static
+../features/AdcModule/src/adcModule.c:327:15:AdcModule_ReadTemperature	120	static
+../features/AdcModule/src/adcModule.c:368:15:AdcModule_ReadVBat	120	static
+../features/AdcModule/src/adcModule.c:406:15:AdcModule_ReadVRef	120	static
+../features/AdcModule/src/adcModule.c:451:11:AdcModule_CTOR	32	static
+../features/AdcModule/src/adcModule.c:500:18:AdcModule_INIT	104	static
+../features/AdcModule/src/adcModule.c:523:18:AdcModule_IDLE	24	static
+../features/AdcModule/src/adcModule.c:537:18:AdcModule_ROUTINE	32	static
+../features/AdcModule/src/adcModule.c:581:18:AdcModule_PROCESS	24	static
+../features/AdcModule/src/adcModule.c:628:18:AdcModule_SUSPEND	24	static
+../features/AdcModule/src/adcModule.c:642:6:MainADC	16	static

@@ -1,0 +1,4 @@
+../application/src/debug.c:15:6:System_StateDEBUG_CTOR	16	static
+../application/src/debug.c:29:6:System_StateDEBUG_MSG	32	static
+../application/src/debug.c:75:9:System_SetDEBUG_Status	16	static
+../application/src/debug.c:80:19:System_GetDEBUG_Status	16	static
